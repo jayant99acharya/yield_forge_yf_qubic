@@ -10,6 +10,11 @@
 
 YieldForge is a cutting-edge DeFi protocol built on the Qubic blockchain that optimizes Real World Asset (RWA) yields through oracle-powered automatic rebalancing. By leveraging Qubic's ultra-fast consensus mechanism and smart contract capabilities, YieldForge delivers institutional-grade yields of 15%+ APY to retail investors.
 
+### Vercel Deployed Link
+```bash
+https://yieldforgeyfqubicdeployment-jayant-acharyas-projects.vercel.app?_vercel_share=Xj3DEMLFvAR9FwryB8xXmkGl0rdpCwV3
+```
+
 ### 🌐 Live Demo
 
 **Visit the live application: []()**
